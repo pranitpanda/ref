@@ -1,0 +1,10 @@
+initial box position
+- Translation: [0.881, 0.114, -0.154]
+- Rotation: in Quaternion [-0.033, 0.999, -0.041, 0.008]
+            in RPY (radian) [-3.059, 0.013, -3.075]
+            in RPY (degree) [-175.270, 0.723, -176.182]
+
+Translation: [0.853, -0.144, -0.152]
+- Rotation: in Quaternion [-0.036, 0.999, -0.029, 0.015]
+            in RPY (radian) [-3.083, 0.027, -3.069]
+            in RPY (degree) [-176.614, 1.546, -175.865]
